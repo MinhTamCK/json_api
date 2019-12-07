@@ -7,5 +7,9 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "tam" : {
+    "age": 1,
+    "location": "VN"
   }
 }
